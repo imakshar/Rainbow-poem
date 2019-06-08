@@ -1,4 +1,4 @@
-The Ranbow.
+The Rainbow and Unicorn 
 
 Purple 
 Pink 
@@ -7,5 +7,6 @@ Bule
 Green 
 Red
 Yellow
-
-This is color of Rainbow ...!
+unicorn
+This is colors of Rainbow ...!
+unicorn is added
