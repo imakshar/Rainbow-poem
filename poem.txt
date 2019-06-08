@@ -6,5 +6,6 @@ Orange
 Bule 
 Green 
 Red
+Yellow
 
 This is color of Rainbow ...!
