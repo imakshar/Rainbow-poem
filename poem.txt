@@ -4,6 +4,7 @@ Purple
 Pink 
 Orange
 Bule 
+Green 
 Red
 
 This is color of Rainbow ...!
