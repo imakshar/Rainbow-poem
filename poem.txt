@@ -1,10 +1,5 @@
- 
 The Rainbow and Unicorn 
-
- 
-
-poony
- 
+poony 
 Purple 
 Pink 
 Orange
@@ -13,10 +8,6 @@ Green
 Red
 Yellow 
 unicorn
- 
- 
- 
-
 poony added 
 This is colors of Rainbow ...!
  
