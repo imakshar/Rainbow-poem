@@ -1,4 +1,4 @@
-The Ranbow.
+The Rainbow.
 
 Purple 
 Pink 
@@ -8,4 +8,4 @@ Green
 Red
 Yellow
 
-This is color of Rainbow ...!
+This is colors of Rainbow ...!
