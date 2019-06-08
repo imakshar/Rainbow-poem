@@ -1,5 +1,5 @@
 The Rainbow.
-
+poony
 Purple 
 Pink 
 Orange
@@ -8,4 +8,5 @@ Green
 Red
 Yellow
 
+poony added 
 This is colors of Rainbow ...!
